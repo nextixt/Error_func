@@ -16,6 +16,6 @@ def mean_absolute_difference_solution(real, predicted):
 
 mean_absolute_difference_solution(real, predicted)
 if results > tests:
-    print('Все тесты прошли успешно!')
+    print('All tests are complete!')
 else:
-    print('Произошла ошибка')
+    print('ERROR')
